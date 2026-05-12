@@ -1,4 +1,4 @@
-# Course Explainer App
+# Course Explainer App - edit
 
 This is a simple web application built using Python and Flask that provides an overview and detailed information about various courses.
 
